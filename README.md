@@ -1,6 +1,6 @@
 # Sky-CMWRN
 
-A Cascaded Framework for Fine-Grained Weather Intensity Recognition  
+Enhancing Fine-Grained Weather Intensity Recognition through a Cascaded Sky Perception and Multi-Task Weather Recognition Framework  
 
 It includes the datasets and models mentioned in the article.  
 
