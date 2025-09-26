@@ -1,8 +1,7 @@
 # Sky-CMWRN
 
-Enhancing Fine-Grained Weather Intensity Recognition through a Cascaded Sky Perception and Multi-Task Weather Recognition Framework  
 
-It includes the datasets and models mentioned in the article.  
+It includes the datasets and models mentioned in 《Enhancing Fine-Grained Weather Intensity Recognition through a Cascaded Sky Perception and Multi-Task Weather Recognition Framework》.  
 
 1.WCID  
 To address the shortcomings of traditional weather classification data in meteorological intensity representation and weather coexistence, this study constructs the WCID.
